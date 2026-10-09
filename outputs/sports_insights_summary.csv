@@ -1,0 +1,81 @@
+event_id,seating_zone,capacity,tickets_sold,avg_ticket_price,sponsorship_impressions,total_revenue,occupancy_pct,rev_per_available_seat,yield_status
+Game_01,VIP Courtside,100,98,182.79,1078,17913.42,98.0,179.13,Optimal
+Game_01,Lower Bowl,500,406,96.95,3654,39361.700000000004,81.2,78.72,Optimal
+Game_01,Upper Deck,1000,702,32.35,7722,22709.7,70.2,22.71,Optimal
+Game_01,Suites,1000,930,32.51,8370,30234.3,93.0,30.23,Underpriced (High Demand)
+Game_02,VIP Courtside,100,95,143.57,665,13639.15,95.0,136.39,Optimal
+Game_02,Lower Bowl,500,449,73.81,3592,33140.69,89.8,66.28,Optimal
+Game_02,Upper Deck,1000,893,27.01,7144,24119.93,89.3,24.12,Optimal
+Game_02,Suites,1000,876,34.41,5256,30143.159999999996,87.6,30.14,Optimal
+Game_03,VIP Courtside,100,81,135.42,405,10969.019999999999,81.0,109.69,Optimal
+Game_03,Lower Bowl,500,348,88.79,3828,30898.920000000002,69.6,61.8,Low Yield (Price Adjustment Recommended)
+Game_03,Upper Deck,1000,769,27.56,6152,21193.64,76.9,21.19,Optimal
+Game_03,Suites,1000,870,32.47,9570,28248.899999999998,87.0,28.25,Optimal
+Game_04,VIP Courtside,100,62,186.6,682,11569.199999999999,62.0,115.69,Low Yield (Price Adjustment Recommended)
+Game_04,Lower Bowl,500,320,86.42,1920,27654.4,64.0,55.31,Low Yield (Price Adjustment Recommended)
+Game_04,Upper Deck,1000,987,38.31,9870,37811.97,98.7,37.81,Underpriced (High Demand)
+Game_04,Suites,1000,841,31.62,5046,26592.420000000002,84.1,26.59,Optimal
+Game_05,VIP Courtside,100,61,176.05,671,10739.050000000001,61.0,107.39,Low Yield (Price Adjustment Recommended)
+Game_05,Lower Bowl,500,487,75.91,4383,36968.17,97.4,73.94,Underpriced (High Demand)
+Game_05,Upper Deck,1000,863,27.41,8630,23654.83,86.3,23.65,Optimal
+Game_05,Suites,1000,680,30.11,5440,20474.8,68.0,20.47,Low Yield (Price Adjustment Recommended)
+Game_06,VIP Courtside,100,61,160.51,610,9791.109999999999,61.0,97.91,Low Yield (Price Adjustment Recommended)
+Game_06,Lower Bowl,500,405,90.17,3645,36518.85,81.0,73.04,Optimal
+Game_06,Upper Deck,1000,790,37.11,6320,29316.899999999998,79.0,29.32,Optimal
+Game_06,Suites,1000,761,31.74,6088,24154.14,76.1,24.15,Optimal
+Game_07,VIP Courtside,100,73,178.64,803,13040.72,73.0,130.41,Optimal
+Game_07,Lower Bowl,500,499,90.25,3992,45034.75,99.8,90.07,Underpriced (High Demand)
+Game_07,Upper Deck,1000,789,30.9,7101,24380.1,78.9,24.38,Optimal
+Game_07,Suites,1000,937,33.48,5622,31370.76,93.7,31.37,Underpriced (High Demand)
+Game_08,VIP Courtside,100,84,151.86,672,12756.240000000002,84.0,127.56,Optimal
+Game_08,Lower Bowl,500,340,81.48,3060,27703.2,68.0,55.41,Low Yield (Price Adjustment Recommended)
+Game_08,Upper Deck,1000,664,27.19,3320,18054.16,66.4,18.05,Low Yield (Price Adjustment Recommended)
+Game_08,Suites,1000,943,31.74,10373,29930.82,94.3,29.93,Underpriced (High Demand)
+Game_09,VIP Courtside,100,70,146.93,490,10285.1,70.0,102.85,Optimal
+Game_09,Lower Bowl,500,462,96.68,4158,44666.16,92.4,89.33,Underpriced (High Demand)
+Game_09,Upper Deck,1000,830,34.81,6640,28892.300000000003,83.0,28.89,Optimal
+Game_09,Suites,1000,734,37.2,5872,27304.800000000003,73.4,27.3,Optimal
+Game_10,VIP Courtside,100,93,140.72,1023,13086.96,93.0,130.87,Optimal
+Game_10,Lower Bowl,500,450,93.4,4050,42030.0,90.0,84.06,Optimal
+Game_10,Upper Deck,1000,698,34.1,6980,23801.8,69.8,23.8,Low Yield (Price Adjustment Recommended)
+Game_10,Suites,1000,634,32.67,5706,20712.780000000002,63.4,20.71,Low Yield (Price Adjustment Recommended)
+Game_11,VIP Courtside,100,73,185.93,657,13572.890000000001,73.0,135.73,Optimal
+Game_11,Lower Bowl,500,441,87.8,2205,38719.799999999996,88.2,77.44,Optimal
+Game_11,Upper Deck,1000,806,32.13,4836,25896.780000000002,80.6,25.9,Optimal
+Game_11,Suites,1000,979,28.29,10769,27695.91,97.9,27.7,Underpriced (High Demand)
+Game_12,VIP Courtside,100,91,173.18,728,15759.380000000001,91.0,157.59,Optimal
+Game_12,Lower Bowl,500,395,94.26,3555,37232.700000000004,79.0,74.47,Optimal
+Game_12,Upper Deck,1000,830,31.92,5810,26493.600000000002,83.0,26.49,Optimal
+Game_12,Suites,1000,628,29.75,6908,18683.0,62.8,18.68,Low Yield (Price Adjustment Recommended)
+Game_13,VIP Courtside,100,81,187.83,486,15214.230000000001,81.0,152.14,Optimal
+Game_13,Lower Bowl,500,344,81.46,3096,28022.239999999998,68.8,56.04,Low Yield (Price Adjustment Recommended)
+Game_13,Upper Deck,1000,733,32.48,5864,23807.839999999997,73.3,23.81,Optimal
+Game_13,Suites,1000,643,32.0,6430,20576.0,64.3,20.58,Low Yield (Price Adjustment Recommended)
+Game_14,VIP Courtside,100,70,154.46,770,10812.2,70.0,108.12,Optimal
+Game_14,Lower Bowl,500,391,83.4,3910,32609.4,78.2,65.22,Optimal
+Game_14,Upper Deck,1000,824,30.27,5768,24942.48,82.4,24.94,Optimal
+Game_14,Suites,1000,720,36.82,3600,26510.4,72.0,26.51,Optimal
+Game_15,VIP Courtside,100,62,135.42,434,8396.039999999999,62.0,83.96,Low Yield (Price Adjustment Recommended)
+Game_15,Lower Bowl,500,436,87.51,2180,38154.36,87.2,76.31,Optimal
+Game_15,Upper Deck,1000,906,30.23,9966,27388.38,90.6,27.39,Underpriced (High Demand)
+Game_15,Suites,1000,914,30.88,4570,28224.32,91.4,28.22,Underpriced (High Demand)
+Game_16,VIP Courtside,100,71,150.11,426,10657.810000000001,71.0,106.58,Optimal
+Game_16,Lower Bowl,500,430,81.63,2150,35100.9,86.0,70.2,Optimal
+Game_16,Upper Deck,1000,680,30.2,4080,20536.0,68.0,20.54,Low Yield (Price Adjustment Recommended)
+Game_16,Suites,1000,729,31.93,8019,23276.97,72.9,23.28,Optimal
+Game_17,VIP Courtside,100,96,155.7,480,14947.199999999999,96.0,149.47,Optimal
+Game_17,Lower Bowl,500,446,93.78,4014,41825.88,89.2,83.65,Optimal
+Game_17,Upper Deck,1000,771,32.37,7710,24957.269999999997,77.1,24.96,Optimal
+Game_17,Suites,1000,846,35.07,5922,29669.22,84.6,29.67,Optimal
+Game_18,VIP Courtside,100,76,178.69,684,13580.44,76.0,135.8,Optimal
+Game_18,Lower Bowl,500,415,103.47,4150,42940.05,83.0,85.88,Optimal
+Game_18,Upper Deck,1000,994,36.8,4970,36579.2,99.4,36.58,Underpriced (High Demand)
+Game_18,Suites,1000,800,30.85,8000,24680.0,80.0,24.68,Optimal
+Game_19,VIP Courtside,100,75,137.45,600,10308.75,75.0,103.09,Optimal
+Game_19,Lower Bowl,500,486,79.05,2916,38418.299999999996,97.2,76.84,Underpriced (High Demand)
+Game_19,Upper Deck,1000,746,31.18,8206,23260.28,74.6,23.26,Optimal
+Game_19,Suites,1000,907,38.29,9977,34729.03,90.7,34.73,Underpriced (High Demand)
+Game_20,VIP Courtside,100,77,185.26,539,14265.019999999999,77.0,142.65,Optimal
+Game_20,Lower Bowl,500,484,75.63,5324,36604.92,96.8,73.21,Underpriced (High Demand)
+Game_20,Upper Deck,1000,897,30.1,7176,26999.7,89.7,27.0,Optimal
+Game_20,Suites,1000,743,36.81,3715,27349.83,74.3,27.35,Optimal
