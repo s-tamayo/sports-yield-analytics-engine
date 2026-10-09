@@ -18,6 +18,7 @@ sports-yield-analytics-engine/
 ├── .gitignore                          # Version control exclusions
 ├── LICENSE                             # MIT License
 └── README.md                           # Technical project documentation
+```
 
 ---
 
@@ -49,3 +50,29 @@ This engine solves this challenge by:
                                                                   - KPI Ribbon & DAX Measures
                                                                   - Yield Breakdown Charts
                                                                   - Conditional Audit Table
+```
+
+---
+
+## Key Features
+
+- **Automated Data Pipeline (`scripts/yield_model.py`):** Ingests and transforms raw transactional data, generating structured aggregate analytics and execution summary JSON metrics.
+- **Dynamic Yield Classification:** Categorizes seating zones into `Optimal`, `Underpriced (High Demand)`, or `Low Yield (Price Adjustment Recommended)`.
+- **Power BI Executive Layer (`sports_yield_dashboard.pbix`):** Implements custom DAX measures (`Total Revenue`, `Avg Occupancy %`, `Underpriced Zones Count`) and conditional visual formatting to surface lost revenue opportunities instantly.
+
+---
+
+## Getting Started
+
+### Prerequisites
+* Python 3.10+
+* `pandas` and `numpy`
+* Power BI Desktop
+
+### 1. Execute the Python ETL Engine
+```powershell
+py scripts/yield_model.py
+```
+
+### 2. View Dashboard
+Open `sports_yield_dashboard.pbix` in Power BI Desktop to inspect measures, conditional formatting rules, and visual models.
