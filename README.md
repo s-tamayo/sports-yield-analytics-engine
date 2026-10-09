@@ -2,6 +2,17 @@
 
 An automated data pipeline and executive reporting suite built with **Python** and **Power BI**. This engine models ticket price elasticity, venue seating zone yield, and partner sponsorship exposure to maximize Revenue Per Available Seat (RevPAS) across event schedules.
 
+sports-yield-analytics-engine/
+├── outputs/
+│   ├── sports_analytics_metrics.json   # Executive summary & execution KPIs
+│   └── sports_insights_summary.csv     # Transformed event-zone yield dataset
+├── scripts/
+│   └── yield_model.py                  # Python ETL & yield calculation engine
+├── dashboard_preview.png               # Power BI dashboard preview image
+├── sports_yield_dashboard.pbix         # Power BI Desktop report file
+├── .gitignore                          # Version control exclusions
+├── LICENSE                             # MIT License
+└── README.md                           # Technical project documentation
 ---
 
 ## Executive Dashboard Preview
